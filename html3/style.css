@@ -1,0 +1,113 @@
+
+#title{
+   
+    
+    width: 100%;
+   height:300px;
+   background: url("l.jpg");
+   color: white;
+   text-align: center;
+   padding-top: auto;
+   padding-bottom: auto;
+}
+#menu a{
+    
+    font-size:28px; 
+    height: 100%;
+    
+    font-weight: bold;
+    color:white;
+   padding-right:4%;
+   padding-left:4%;
+    display: inline;
+ text-align: center;
+text-decoration: none;
+border-right: 2px solid white;
+}
+#menu {
+   
+   height:55px;
+    
+    width :100%;
+    padding-right: auto;
+    padding-left: auto;
+    
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 15px;
+    background: url("ll.jpg");
+}
+#main{
+
+    width: 25%;
+    height: 100%;
+ 
+    padding-left: 10px;
+    margin-right: 10px;
+    font-size: 20px;
+  
+    
+    
+}
+#content{
+   
+    width: 70%;
+    height:100%;
+    
+    padding-left: 15px;
+   
+
+}
+#al{
+    width:100%;
+   
+    height: auto;
+    margin-top: 10px;
+padding-top: 0%;
+display: inline-flex;
+}
+#titre{
+    width: 97%;
+    height: 45px;
+    padding-top: 0%;
+    border-bottom: 3px solid blue;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.C{
+    width: 97%;
+    height: auto;
+    margin:10px 10px 10px 0;
+    
+    font-size: 20px;
+    display: inline-flex;
+    
+}
+.CC{
+    padding:15px ;
+    width: 50%;
+}
+.CT{
+    font-size: 27px;
+    font-weight: bold;
+    border-bottom: 3px solid blue;
+    margin-bottom: 5px;
+    color:blue;
+}
+#contact{
+    width:100%;
+    height: 200px;
+    background: url("lll.jpg");
+    color:white;
+    font-size: 20px;
+    padding-left: 15px;
+    padding-top: 15px;
+    display:flex;
+}
+#contact input{
+    height: 25px;
+    
+    
+
+}
